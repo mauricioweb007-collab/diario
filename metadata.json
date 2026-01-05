@@ -1,0 +1,7 @@
+{
+  "name": "Nosso Diário de Aventuras",
+  "description": "Um diário compartilhado elegante para casais registrarem seus passeios, com fotos, prós e contras, e uma visão de calendário para eternizar memórias.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
